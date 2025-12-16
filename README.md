@@ -1,3 +1,3 @@
 # Smart Parking
 Get the Project details on 
-[project page](file:///Users/sanghyeokcho/Desktop/IoT-Project/index.html)
+[project page](https://sanghyeokchowork-ctrl.github.io/IoT-Project/)
